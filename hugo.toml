@@ -1,0 +1,4 @@
+baseURL = 'http://alan1113.github.io/'
+languageCode = 'zh-tw'
+title = 'alan1113'
+theme = "hugo-theme-stack"
